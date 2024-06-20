@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/_MyProjectName/Scenes/SampleScene.unity
+    path: Assets/_MyProjectName/Scenes/XRToolKit_n_WebXR_Test.unity
     guid: 5844167b5d9f98c48a5aeb9009579573
   m_configObjects:
     WebXR.Settings: {fileID: 11400000, guid: 1e33c8698c357284e8fe68fe11e87f42, type: 2}
