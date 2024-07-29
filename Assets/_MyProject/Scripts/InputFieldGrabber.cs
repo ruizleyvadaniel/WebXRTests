@@ -3,12 +3,11 @@ using UnityEngine;
 
 public class InputFieldGrabber : MonoBehaviour
 {
-    [Header("The value grabbed from the input field")]
-    [SerializeField] string _inputText;
-
     [Header("Showing reaction to player")]
     [SerializeField] TMP_Text _reactionTextBox;
     [SerializeField] GameObject _reactionGroup;
+
+    string _inputText;
 
     public void GrabFromInputField(string input)
     {
